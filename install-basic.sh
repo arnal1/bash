@@ -8,4 +8,4 @@ sudo service apache2 status -y
 
 sudo apt install mysql-server -y
 
-sudo apt install php libapache2-mod-php php-mcrypt php-mysql -y
+sudo apt install php libapache2-mod-php php-mysql php-curl -y
